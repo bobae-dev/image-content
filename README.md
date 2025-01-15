@@ -5,4 +5,5 @@
 ---
 ![사용중인 전체 크기](https://img.shields.io/github/repo-size/bobae-dev/image-content)
 * 각 파일은 50MB가 넘으면 업로드 되지 않습니다.
+* 각 파일이 3MB 이상이면 웹에서 보이지 않고 다운로드 되니, 그림판 등을 사용하여 3MB이하로 낮춰주셔야 합니다.
 * repo size가 5GB를 초과하게 되면 새로운 레포를 이용하셔야 합니다.
